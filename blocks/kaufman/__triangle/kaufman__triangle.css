@@ -1,0 +1,13 @@
+.kaufman__triangle {
+  background-image:url(../../../images/triangle.svg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  right: -150px;
+  width: 995px;
+  height: 1006px;
+}
+
+
