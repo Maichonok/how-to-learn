@@ -3,4 +3,9 @@
   font-size: 18px;
   font-weight: normal;
   z-index: 1;
+  margin-bottom: 20px;
+}
+
+.table__text:last-child {
+  margin-bottom: 0;
 }
