@@ -9,4 +9,5 @@
   z-index: 1;
   padding-top: 100px;
   color: #000;
+  box-sizing: border-box;
 }
