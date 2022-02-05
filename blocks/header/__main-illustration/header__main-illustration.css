@@ -1,6 +1,6 @@
 .header__main-illustration {
   background-image: url(../../../images/two_again.png);
-  background-size: 765px 608px;
+  background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
   right: 0;
